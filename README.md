@@ -2,7 +2,7 @@
 
 ## Note: Reformatting
 
-The original data is in a somewhat suboptimal netCDF format. I've cleaned it here and converted into a custom `.ssp` format - which is really just JSON without the `.json` extension. Should be much easier to work with. If you want to follow along with the reformatting notebook just make sure to install the requirements first:
+The original data is in a somewhat suboptimal netCDF format. I've cleaned it here and converted into a JSON. Should be much easier to work with. If you want to follow along with the reformatting notebook just make sure to install the requirements first:
 
 ```
 pip install -r requirements.txt
