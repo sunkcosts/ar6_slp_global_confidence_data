@@ -8,7 +8,7 @@
             "doi": "https://doi.org/10.5281/zenodo.5914710"
         },
         "download": {
-            "set": "https://zenodo.org/records/5914710/files/ar6.zip?download=1",
+            "dataset": "https://zenodo.org/records/5914710/files/ar6.zip?download=1",
             "raw": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/raw/med.ssp585.nc",
             "ssp": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/ssp/med.585.ssp"
         }
