@@ -1,5 +1,16 @@
 # ar6_slp_global_confidence_data
 
+## Note: Reformatting
+
+The original data is in a somewhat suboptimal netCDF format. I've cleaned it here and converted into a custom `.ssp` format - which is really just JSON without the `.json` extension. Should be much easier to work with. If you want to follow along with the reformatting notebook just make sure to install the requirements first:
+
+```
+pip install -r requirements.txt
+```
+
+
+## Description
+
 This repository contains data for sea level rise projections from the IPCC AR6 report. It is duplicated here, as I'm adding the data to a package, but implementing automated data downloads in that package for package files doesn't work on zenodo, but it does on github.
 
 Specifically, the data maintained here is only a sample of the `ar6/global/confidence_output_files/*` in the dataset which can be found at the link below.
