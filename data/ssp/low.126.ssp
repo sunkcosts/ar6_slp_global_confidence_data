@@ -3,17 +3,14 @@
     "scenario": "126",
     "metadata": {
         "description": "Combined low confidence output file for SSP 126 AR6 sea-level change projections",
-        "details": {
+        "reference": {
             "wiki": "https://www.wikiwand.com/en/Shared_Socioeconomic_Pathways",
             "doi": "https://doi.org/10.5281/zenodo.5914710"
         },
         "download": {
-            "raw.zenodo.full": {
-                "link": "https://zenodo.org/records/5914710/files/ar6.zip?download=1",
-                "path": "ar6/global/confidence_output_files/low_confidence/ssp126/total_ssp126_low_confidence_values.nc"
-            },
-            "github.file.nc": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/raw/low.ssp126.nc",
-            "github.file.ssp": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/ssp/low.126.ssp"
+            "set": "https://zenodo.org/records/5914710/files/ar6.zip?download=1",
+            "raw": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/raw/low.ssp126.nc",
+            "ssp": "https://github.com/sunkcosts/ar6_slp_global_confidence_data/raw/main/data/ssp/low.126.ssp"
         }
     },
     "data": {
