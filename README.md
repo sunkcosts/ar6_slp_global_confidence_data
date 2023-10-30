@@ -8,6 +8,7 @@ The original data is in a somewhat suboptimal netCDF format. I've cleaned it her
 pip install -r requirements.txt
 ```
 
+Also, credit to [this article](https://towardsdatascience.com/read-netcdf-data-with-python-901f7ff61648) by Konrad Hafen for the netcd4 parsing stuff.
 
 ## Description
 
