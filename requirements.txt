@@ -1,0 +1,4 @@
+jupyter
+netCDF4
+pandas
+numpy
